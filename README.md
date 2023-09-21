@@ -1,4 +1,3 @@
-# Stock Price Prediction
 
 ## AIM
 
@@ -8,7 +7,7 @@ To develop a Recurrent Neural Network model for stock price prediction.
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![rnn](https://github.com/KeerthikaNagarajan/rnn-stock-price-prediction/assets/93427089/7ae49724-9869-4fd4-b547-44c2392e9246)
 
 ## DESIGN STEPS
 
