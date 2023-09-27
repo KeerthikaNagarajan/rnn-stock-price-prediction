@@ -1,4 +1,4 @@
-
+# Ex05: Stock Price Prediction
 ## AIM
 
 To develop a Recurrent Neural Network model for stock price prediction.
